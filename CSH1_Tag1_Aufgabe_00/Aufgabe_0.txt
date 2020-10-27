@@ -1,0 +1,6 @@
+﻿/* Aufgabe 0 (Basics)
+ * Schreiben Sie eine statische Funktion, die die Quersumme einer Zahl berechnet.
+ * Übergabewert (Parameter): int zahl
+ * Rückgabewert: Die berechnete Quersumme.
+ * Hinweis: Zur Berechnung bietet sich der Modulo-Operator % an. 
+ */
